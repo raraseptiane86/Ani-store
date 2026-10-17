@@ -4,7 +4,7 @@
 'use strict';
 
 /* ---------- Settings & demo data (replaced by Supabase when config.js is filled in) ---------- */
-const SETTINGS = { whatsappNumber: '', businessEmail: '', minimumOrder: 10 };
+const SETTINGS = { whatsappNumber: '6283819428819', businessEmail: 'raafikyi@gmail.com', minimumOrder: 10 };
 const IMAGES = {
   monstera: 'https://images.unsplash.com/photo-1501004318641-b39e6451bec6?w=700&q=80',
   anthurium: 'https://images.unsplash.com/photo-1545241047-6083a3684587?w=700&q=80',
